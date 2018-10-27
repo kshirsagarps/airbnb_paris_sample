@@ -1,0 +1,8 @@
+<resources>
+  <declare-styleable name="SampleView">
+    <attr name="contentStyle" format="reference"/>
+    <attr name="contentText" format="string"/>
+    <attr name="titleStyle" format="reference"/>
+    <attr name="titleText" format="string"/>
+  </declare-styleable>
+</resources>
